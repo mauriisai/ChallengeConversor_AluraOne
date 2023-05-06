@@ -13,7 +13,7 @@ Java JDK 17
 Lib Javax Swing
 ```
 
-### Funcionalidades
+## Funcionalidades
 ```
 Funcionalidad 1: 
 ```
